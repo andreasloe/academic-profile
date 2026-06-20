@@ -30,6 +30,6 @@ The profile contains a curriculum vitae, publication lists, bibliographic data, 
 
 This repository does not try to host publisher material where the rights position is unclear. For publications, it gives bibliographic references and links to DOI, publisher, SSRN, Refubium, or other lawful access points where available.
 
-Where the FU Berlin publication page directly links a PDF and the rights position has been checked, a local copy is stored in `assets/pdfs/` and linked from the publication list.
+See the [imprint](https://andreasloe.github.io/academic-profile/#imprint).
 
 Court citations are recorded separately. Where more than two decisions cite the same book or article, the publication list should use the phrase "cited in several OLG decisions" and name two examples in parentheses, followed by "...".
