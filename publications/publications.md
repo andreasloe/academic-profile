@@ -8,7 +8,6 @@ This file is intentionally documentary in tone. It combines the public FU Berlin
 - L. Kruschwitz and A. Loeffler. *Brownian Motion: A Rigorous but Gentle Introduction for Economists*. Springer, 2019. DOI: https://doi.org/10.1007/978-3-030-20103-6. Open access.
 - L. Kruschwitz and A. Loeffler. *Discounted Cash Flow: A Theory of the Valuation of Firms*. Wiley, 2005.
 - L. Kruschwitz, A. Loeffler, and W. Essler. *Unternehmensbewertung für die Praxis*. Schäffer-Poeschel, 2009.
-  Court citations: cited in several OLG decisions (e.g. OLG Frankfurt a.M., decision of 26.08.2009, 5 W 49/09; OLG Stuttgart, decision of 18.12.2009, 20 W 2/08; ...).
 - A. Loeffler. *Ein Paradox der Portfoliotheorie und vermögensabhängige Nutzenfunktionen*. Deutscher Universitäts-Verlag, 2002. Habilitation thesis.
 - A. Loeffler. *Das CAPM mit Konsumtion*. Gabler, 1996. Doctoral thesis in business administration.
 
