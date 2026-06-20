@@ -8,7 +8,7 @@ Selected profile material:
 
 - Curriculum vitae: `cv/`
 - Publications: `publications/`
-- Court citation notes: `publications/court-citations.md`
+- Court citation notes: `publications/court-citations/`
 
 Further information:
 
