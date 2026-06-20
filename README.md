@@ -6,7 +6,7 @@ The profile contains a curriculum vitae, publication lists, bibliographic data, 
 
 ## Contents
 
-- [Curriculum vitae](cv/cv.md)
+- [Curriculum vitae](cv/)
 - [Publications](publications/publications.md)
 - [Court citations](publications/court-citations.md)
 - [Locally archived PDFs](assets/pdfs/)

@@ -6,7 +6,7 @@ My academic work is mainly in firm valuation, discounted cash flow methods, capi
 
 Selected profile material:
 
-- Curriculum vitae: `cv/cv.md`
+- Curriculum vitae: `cv/`
 - Publications: `publications/publications.md`
 - Court citation notes: `publications/court-citations.md`
 

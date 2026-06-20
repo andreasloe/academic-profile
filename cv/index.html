@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Curriculum Vitae | Andreas Loeffler</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #20242a;
+      --muted: #5b6470;
+      --line: #d9dee7;
+      --paper: #ffffff;
+      --bg: #f4f6f8;
+      --accent: #174a7c;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+      color: var(--ink);
+      background: var(--bg);
+    }
+
+    main {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 44px 24px 72px;
+      background: var(--paper);
+      min-height: 100vh;
+    }
+
+    header {
+      border-bottom: 2px solid var(--ink);
+      padding-bottom: 22px;
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      font-size: 2.2rem;
+      line-height: 1.15;
+      margin: 0 0 8px;
+      letter-spacing: 0;
+    }
+
+    h2 {
+      font-size: 1.1rem;
+      margin: 34px 0 14px;
+      color: var(--accent);
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 6px;
+      letter-spacing: 0;
+    }
+
+    p {
+      margin: 0 0 10px;
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    .subtitle {
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 8px 28px;
+      margin-top: 18px;
+      color: var(--muted);
+    }
+
+    .section-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .section-list li {
+      display: grid;
+      grid-template-columns: 150px 1fr;
+      gap: 18px;
+      padding: 9px 0;
+      border-bottom: 1px solid #edf0f4;
+    }
+
+    .year {
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .compact-list {
+      columns: 2;
+      column-gap: 42px;
+      padding-left: 18px;
+      margin: 0;
+    }
+
+    .compact-list li {
+      break-inside: avoid;
+      margin-bottom: 6px;
+    }
+
+    .top-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 18px;
+    }
+
+    .top-links a {
+      text-decoration: none;
+      border-bottom: 1px solid currentColor;
+    }
+
+    footer {
+      margin-top: 42px;
+      padding-top: 16px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    @media (max-width: 640px) {
+      main {
+        padding: 30px 18px 54px;
+      }
+
+      .section-list li {
+        grid-template-columns: 1fr;
+        gap: 2px;
+      }
+
+      .compact-list {
+        columns: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Curriculum Vitae</h1>
+      <p class="subtitle">Andreas Loeffler, Professor of Banking and Finance</p>
+      <div class="meta">
+        <div>Freie Universität Berlin</div>
+        <div>School of Business and Economics</div>
+        <div>Thielallee 73, 14195 Berlin, Germany</div>
+        <div><a href="mailto:andreas.loeffler@gmail.com">andreas.loeffler@gmail.com</a></div>
+        <div>Born 1964 in Szeged, Hungary</div>
+      </div>
+      <nav class="top-links" aria-label="Profile navigation">
+        <a href="../">Profile</a>
+        <a href="../publications/publications.md">Publications</a>
+        <a href="../publications/court-citations.md">Court citations</a>
+        <a href="../#imprint">Imprint</a>
+      </nav>
+    </header>
+
+    <section>
+      <h2>Education</h2>
+      <ul class="section-list">
+        <li><span class="year">2000</span><span>Habilitation, Freie Universität Berlin; venia legendi in business administration.</span></li>
+        <li><span class="year">1995</span><span>Dr. rer. pol., Freie Universität Berlin; dissertation on CAPM with consumption.</span></li>
+        <li><span class="year">1993</span><span>Dr. rer. nat., University of Leipzig and Academy of Sciences, Berlin; dissertation on local embeddings of basic sets in Axiom-A systems.</span></li>
+        <li><span class="year">1988</span><span>Diploma in Mathematics, University of Leipzig.</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Academic Positions</h2>
+      <ul class="section-list">
+        <li><span class="year">2011-present</span><span>Professor of Banking and Finance (W3), Freie Universität Berlin.</span></li>
+        <li><span class="year">2008-2011</span><span>Professor of Investment and Finance (W3), University of Paderborn.</span></li>
+        <li><span class="year">2006-2008</span><span>Professor of Banking and Finance (W3), Friedrich-Alexander-Universität Erlangen-Nürnberg.</span></li>
+        <li><span class="year">2000-2006</span><span>Professor of Banking and Finance (C4), University of Hannover.</span></li>
+        <li><span class="year">1996-2000</span><span>Assistant Professor (C1), Freie Universität Berlin.</span></li>
+        <li><span class="year">1994</span><span>Doctoral research fellow, SFB 303, University of Bonn.</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Visiting Positions</h2>
+      <ul class="section-list">
+        <li><span class="year">2011, 2014, 2018, 2023</span><span>Visiting Professor, Queensland University of Technology, Brisbane.</span></li>
+        <li><span class="year">2013</span><span>Visiting Professor, University under the Government of the Russian Federation, Moscow.</span></li>
+        <li><span class="year">2006, 2009-2011</span><span>Visiting Professor, University of Vienna.</span></li>
+        <li><span class="year">1999-2000</span><span>Visiting Scholar, Anderson School, University of California at Los Angeles.</span></li>
+        <li><span class="year">1995</span><span>Visiting Scholar, Wharton School, University of Pennsylvania.</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Service</h2>
+      <ul class="section-list">
+        <li><span class="year">2019-2021</span><span>Member, JourQual Committee of the German Academic Association for Business Research.</span></li>
+        <li><span class="year">2015-2019</span><span>Dean, School of Business and Economics, Freie Universität Berlin.</span></li>
+        <li><span class="year">2013-2025</span><span>Member, Academic Senate, Freie Universität Berlin.</span></li>
+        <li><span class="year">2014-2026</span><span>Member of the board, Arbeitskreis Quantitative Steuerlehre.</span></li>
+        <li><span class="year">2013-2016</span><span>Member, Executive Committee of the German Academic Association for Business Research.</span></li>
+        <li><span class="year">2005-2006</span><span>Dean, Faculty of Business and Economics, University of Hannover.</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Grants and Awards</h2>
+      <ul class="section-list">
+        <li><span class="year">2012, 2013, 2015, 2018</span><span>Best teaching award, School of Business and Economics, Freie Universität Berlin.</span></li>
+        <li><span class="year">2007</span><span>Best textbook award from the German Academic Association for Business Research for <em>DCF</em>, with Lutz Kruschwitz.</span></li>
+        <li><span class="year">2002-2005</span><span>Research grant for the DCF project, Verein zur Förderung der Zusammenarbeit von Lehre und Praxis am Finanzplatz Hannover.</span></li>
+        <li><span class="year">1999</span><span>DFG research fellowship for UCLA.</span></li>
+        <li><span class="year">1995</span><span>DAAD visiting scholarship for Wharton; European prize for a doctoral dissertation in business administration.</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Teaching</h2>
+      <ul class="compact-list">
+        <li>Investment and Finance</li>
+        <li>Decision Theory</li>
+        <li>Valuation and Taxes</li>
+        <li>Derivatives</li>
+        <li>Capital Markets</li>
+        <li>Discounted Cash Flow</li>
+        <li>Brownian Motion</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Software and Professional Activities</h2>
+      <p>Work used in the R statistical software for the Wilcoxon distribution implementation; see R Bugzilla issue 18655, R source file <code>src/nmath/wilcox.c</code>, and the 1984 note on partitions and the Wilcoxon-Mann-Whitney test.</p>
+      <p>Professional activities include seminars and advisory work on corporate finance, cash flow analysis, firm valuation, cost of capital, and related topics for firms and institutions.</p>
+    </section>
+
+    <footer>
+      Last source update used for this file: 2024-09-26.
+    </footer>
+  </main>
+</body>
+</html>
