@@ -1,6 +1,6 @@
 # Publications
 
-This file is intentionally documentary in tone. It combines the public FU Berlin publication page, the CV source files, and links to archived PDFs where neither DOI nor Refubium links are available.
+Links to archived PDFs where neither DOI nor Refubium links are available.
 
 ## Books
 
