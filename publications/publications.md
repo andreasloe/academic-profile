@@ -58,7 +58,7 @@ Links to archived PDFs where neither DOI nor Refubium links are available.
 - L. Kruschwitz und A. Löffler. Ein neuer Zugang zum Konzept des Discounted Cashflow. Journal für Betriebswirtschaft, 55 (2005), S. 21-36. [Refubium](https://refubium.fu-berlin.de/handle/fub188/21028)
 - W. Essler, L. Kruschwitz und A. Löffler. Wie sind Unternehmen zu bewerten, wenn ihr Verschuldungsgrad nicht in Markt-, sondern in Buchwerten gemessen wird? Betriebsberater, Heft 11 vom 14. März 2005, S. 595-600. [Refubium](https://refubium.fu-berlin.de/handle/fub188/21568)
 - M. Jonas, A. Löffler und J. Wiese. Das CAPM mit deutscher Einkommensteuer. Die Wirtschaftsprüfung 57:17 (2004), S. 898-906. (translated english version: CAPM with German Income Tax) [Refubium](https://refubium.fu-berlin.de/handle/fub188/21556) [FU edocs](http://edocs.fu-berlin.de/docs/receive/FUDOCS_document_000000026364)
-- P. Fieten, A. Löffler, J. Tham, I. Vélez-Pareja und N. Wonder. Comment on ‘The value of tax shields is not equal to the present value of tax shields’. Quarterly Review of Economics and Finance, 45 (2005), S.184-187. [PDF](../assets/pdfs/KruschwitzThamWonderua_2005_-_QREF_-_Fernandez_Kritik.pdf)
+- P. Fieten, L. Kruschwitz, J. Laitenberger, A. Löffler, J. Tham, I. Vélez-Pareja, and N. Wonder. Comment on ‘The value of tax shields is not equal to the present value of tax shields’. Quarterly Review of Economics and Finance, 45 (2005), S.184-187. [PDF](../assets/pdfs/KruschwitzThamWonderua_2005_-_QREF_-_Fernandez_Kritik.pdf)
 - L. Kruschwitz und A. Löffler. Bemerkungen über Kapitalkosten vor und nach Steuern. Zeitschrift für Betriebswirtschaft, 74 (2004), S. 1175-1190. [Refubium](https://refubium.fu-berlin.de/handle/fub188/21046)
 - A. Löffler. Zwei Anmerkungen zu WACC. Zeitschrift für Betriebswirtschaft, 74 (2004), S. 933-942. [Refubium](https://refubium.fu-berlin.de/handle/fub188/20940)
 - W. Essler, L. Kruschwitz und A. Löffler. Zur Anwendung des WACC-Verfahrens bei vorgegebener bilanzieller Verschuldung. Betriebswirtschaftliche Forschung und Praxis, 56 (2004), S. 134-147. [Refubium](https://refubium.fu-berlin.de/handle/fub188/20619)
@@ -86,6 +86,7 @@ Links to archived PDFs where neither DOI nor Refubium links are available.
 - L. Kruschwitz and A. Loeffler. *Die Brownsche Bewegung: Eine gründliche Einführung für Ökonomen*. Books on Demand, 2016.
 - L. Kruschwitz and A. Loeffler. "Buchbesprechung Frank Richter: Mergers & Acquisitions." *Die Wirtschaftsprüfung*, 58, 2005, 1009-1010.
 - L. Kruschwitz and A. Loeffler. "Erwiderungen auf die Bemerkungen Frank Richters zur Buchbesprechung Mergers & Acquisitions." *Die Wirtschaftsprüfung*, 59, 2006, 342-343.
+- A. Loeffler. "Virtuelle Tutorien in der Lehre." *Wirtschaftswissenschaftliches Studium*, 34(8), 2005, 414-417.
 - L. Kruschwitz and A. Loeffler. "Mehr Fragen als Antworten im Zusammenhang mit Steuervorteilen bei der Unternehmensbewertung." In H. Dirrigl, D. Wellisch, and E. Wenger, eds., *Steuern, Rechnungslegung und Kapitalmarkt*, Deutscher Universitätsverlag, 2004, 85-100.
 - L. Kruschwitz and A. Loeffler. "DCF-Verfahren, Finanzierungspolitik und Steuern." In G. Seicht, ed., *Jahrbuch für Controlling und Rechnungswesen 2001*, Orac, Vienna, 2001, 101-116. [PDF](../assets/pdfs/KruschwitzLoeffler_2001_-_Jahrbuch_fuer_Controlling_und_Rechnungswesen_2001_-_DCF-Verfahren_Finanzi.pdf)
 - L. Kruschwitz and A. Loeffler. "Erwiderung auf Frank Richter: Unternehmensbewertung bei variablem Verschuldungsgrad." *Zeitschrift für Bankrecht und Bankbetriebswirtschaftslehre*, 1998, 379.
@@ -93,6 +94,7 @@ Links to archived PDFs where neither DOI nor Refubium links are available.
 - A. Loeffler. "Gewichtete Kapitalkosten (WACC) in der Unternehmensbewertung - Replik zu Schwetzler/Rapp." *FinanzBetrieb*, 5, 2002, 505-509.
 - L. Kruschwitz and A. Loeffler. "Die Amortisationsrechnung ist besser als ihr Ruf!" *OR Spectrum*, 21, 1999, 287-303.
 - L. Kruschwitz and A. Loeffler. "Ross' APT ist gescheitert. Was nun?" *Zeitschrift für betriebswirtschaftliche Forschung*, 49, 1997, 644-651.
+- A. Loeffler. "Variance aversion implies μ-σ criterion." *Journal of Economic Theory*, 69, 1996, 532-539.
 - T. Hens and A. Loeffler. "Gross Substitution in Financial Markets." *Economics Letters*, 49, 1995, 39-43. [DOI](https://doi.org/10.1016/0165-1765(94)00647-K)
 - J.-M. Bottazzi, T. Hens, and A. Loeffler. "Market Demand Functions in the CAPM." *Journal of Economic Theory*, 79, 1998, 192-206. [DOI](https://doi.org/10.1006/jeth.1997.2370)
 - A. Loeffler. "Debreu's Decomposition and Aggregate Demand Functions." *Economics Letters*, 63, 1999, 217-223. [DOI](https://doi.org/10.1016/S0165-1765(99)00021-X)
@@ -107,4 +109,4 @@ Links to archived PDFs where neither DOI nor Refubium links are available.
 
 ## Court Citation Notes
 
-See [court-citations.md](court-citations.md).
+See [court-citations](court-citations/).
