@@ -13,8 +13,6 @@ Cited in several OLG decisions:
 - OLG München, decision of 14.07.2009, 31 Wx 121/06; Marktrisikoprämie.
 - OLG Stuttgart, decision of 14.10.2010, 20 W 16/06; Referenzzeitraum / Stollwerck context.
 
-Publication-list notation: cited in several OLG decisions (e.g. OLG Stuttgart, decision of 16.02.2007, 20 W 6/06; OLG München, decision of 31.03.2008, 31 Wx 88/06; ...).
-
 ### Kruschwitz and Loeffler, WPg 2008, 803
 
 - OLG Düsseldorf, decision of 27.05.2009, I-26 W 5/07 (AktE); CAPM / Risikozuschlag.
@@ -46,8 +44,6 @@ Cited in several OLG decisions:
 - OLG Stuttgart, decision of 09.12.2018, 20 W 1/14, Allianz Leben; monthly returns / data points / R² and t-test. Date to verify: 09.12.2018 was a Sunday.
 - OLG Düsseldorf, decision of 05.09.2019, 26 W 8/17 (AktE); historical beta factor after takeover announcement.
 - OLG Zweibrücken, decision of 23.11.2020, 9 W 1/18; beta / capitalization rate.
-
-Publication-list notation: cited in several OLG decisions (e.g. OLG Frankfurt a.M., decision of 26.08.2009, 5 W 49/09; OLG Stuttgart, decision of 18.12.2009, 20 W 2/08; ...).
 
 ### Knoll, Kruschwitz, and Loeffler, DB 2016, 2305
 
