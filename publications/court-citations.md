@@ -1,26 +1,5 @@
 # Court Citations
 
-This file records citations of books and articles in court decisions, especially OLG decisions. The entries below are based on the supplied "Erweiterte Fundstellenliste: OLG / KG"; LG decisions from that list are not included here.
-
-## Editorial Rule
-
-- Use exact court, decision date, and case number.
-- Prefer public official court pages, juris references, BeckRS references, or PDF decisions where available.
-- Do not infer a citation merely because a topic overlaps with a publication.
-- If there are more than two OLG decisions citing a publication, the publication list should say: "cited in several OLG decisions" and then name two examples in parentheses followed by "...".
-
-## Review Status
-
-The entries were checked for internal consistency against the supplied list and grouped by cited publication. A public web check for the exact case numbers and citation combinations was attempted, but the decisions could not be independently verified in full from freely accessible sources in this environment. The entries should therefore be treated as "from supplied court-citation list" unless a public decision PDF, juris, BeckRS, or official court source is later added.
-
-Plausibility notes:
-
-- The entry "OLG Stuttgart, decision of 09.12.2018, 20 W 1/14, Allianz Leben" is date-suspicious because 09.12.2018 was a Sunday. The case number and date should be checked against the underlying decision.
-- The entry "OLG Frankfurt a.M., decision of 07.03.2012, CorealCredit Bank AG" lacks a case number in the supplied list.
-- Several entries cite the same decision for more than one work; this is preserved in the grouping below.
-
-## OLG Entries from the Supplied List
-
 ### Ballwieser, Kruschwitz, and Loeffler, WPg 2007, 765
 
 Cited in several OLG decisions:

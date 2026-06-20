@@ -108,4 +108,4 @@ This file is intentionally documentary in tone. It combines the public FU Berlin
 
 ## Court Citation Notes
 
-Court citations are maintained in [court-citations.md](court-citations.md). They should be added only when the exact decision, date, and case number have been verified.
+See [court-citations.md](court-citations.md).
