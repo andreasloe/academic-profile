@@ -1,0 +1,130 @@
+/* Academic Profile Styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #333;
+  background-color: #fafafa;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #2c3e50;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.3rem;
+}
+
+header p.title {
+  font-size: 1.1rem;
+  color: #bdc3c7;
+}
+
+nav {
+  background-color: #34495e;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 0.75rem 1rem;
+}
+
+nav a {
+  color: #ecf0f1;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 0.95rem;
+  letter-spacing: 0.03em;
+}
+
+nav a:hover {
+  color: #3498db;
+}
+
+main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+section {
+  margin-bottom: 2.5rem;
+}
+
+section h2 {
+  font-size: 1.5rem;
+  border-bottom: 2px solid #2c3e50;
+  padding-bottom: 0.3rem;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.profile-photo {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background-color: #bdc3c7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7f8c8d;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.publication {
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid #3498db;
+}
+
+.publication .pub-title {
+  font-weight: bold;
+}
+
+.publication .pub-authors {
+  color: #555;
+  font-style: italic;
+}
+
+.publication .pub-venue {
+  color: #777;
+}
+
+.contact-list {
+  list-style: none;
+}
+
+.contact-list li {
+  margin-bottom: 0.4rem;
+}
+
+.contact-list a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.contact-list a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  background-color: #2c3e50;
+  color: #bdc3c7;
+  font-family: Arial, sans-serif;
+  font-size: 0.85rem;
+  margin-top: 2rem;
+}

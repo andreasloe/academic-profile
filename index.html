@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Academic Profile</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <p class="title">Position · Department · Institution</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#publications">Publications</a>
+    <a href="#cv">CV</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <main>
+
+    <section id="about">
+      <h2>About</h2>
+      <div class="profile-photo" aria-label="Profile photo placeholder">Photo</div>
+      <p>
+        Welcome to my academic profile. I am a researcher at [Institution].
+        My work focuses on [research area]. I am interested in [topics of interest].
+      </p>
+    </section>
+
+    <section id="publications">
+      <h2>Publications</h2>
+
+      <div class="publication">
+        <p class="pub-title">Title of Paper One</p>
+        <p class="pub-authors">Author A, Author B, Your Name</p>
+        <p class="pub-venue">Journal / Conference, Year</p>
+      </div>
+
+      <div class="publication">
+        <p class="pub-title">Title of Paper Two</p>
+        <p class="pub-authors">Your Name, Author C</p>
+        <p class="pub-venue">Journal / Conference, Year</p>
+      </div>
+
+    </section>
+
+    <section id="cv">
+      <h2>CV</h2>
+      <p>
+        A full curriculum vitae is available
+        <a href="cv.pdf">here (PDF)</a>.
+      </p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <ul class="contact-list">
+        <li>Email: <a href="mailto:you@institution.edu">you@institution.edu</a></li>
+        <li>Office: Building, Room Number</li>
+        <li>
+          <a href="https://github.com/andreasloe" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Your Name. All rights reserved.</p>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+
+</body>
+</html>
