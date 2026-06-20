@@ -23,4 +23,17 @@ The profile contains a curriculum vitae, publication lists, bibliographic data, 
 ## Links
 
 - Freie Universität Berlin profile: https://www.wiwiss.fu-berlin.de/fachbereich/bwl/pruefungs-steuerlehre/loeffler/team/loeffler/index.html
-- Publications and working papers: https://www.wiwiss.fu-berlin.de/fachbereich/bwl/pruefungs-steuerlehre/loeffler/forschung/
+
+## Imprint
+
+**Kontaktdaten des Verantwortlichen für Datenschutz**
+
+Sollten Sie Fragen zum Datenschutz haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:
+
+Andreas Löffler (Freie Universität Berlin), Thielallee 73, 14195 Berlin, E-Mail-Adresse: [loefflera@zedat.fu-berlin.de](mailto:loefflera@zedat.fu-berlin.de)
+
+Wir entwickeln die Inhalte dieser Website ständig weiter und bemühen uns korrekte und aktuelle Informationen bereitzustellen. Leider können wir keine Haftung für die Korrektheit aller Inhalte auf dieser Website übernehmen, speziell für jene, die seitens Dritter bereitgestellt wurden. Als Diensteanbieter sind wir nicht verpflichtet, die von Ihnen übermittelten oder gespeicherten Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+
+Unsere Verpflichtungen zur Entfernung von Informationen oder zur Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen aufgrund von gerichtlichen oder behördlichen Anordnungen bleiben auch im Falle unserer Nichtverantwortlichkeit davon unberührt.
+
+Sollten Ihnen problematische oder rechtswidrige Inhalte auffallen, bitten wir Sie uns umgehend zu kontaktieren, damit wir die rechtswidrigen Inhalte entfernen können.

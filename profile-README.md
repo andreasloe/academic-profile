@@ -13,4 +13,5 @@ Selected profile material:
 Further information:
 
 - FU Berlin profile: https://www.wiwiss.fu-berlin.de/fachbereich/bwl/pruefungs-steuerlehre/loeffler/team/loeffler/index.html
-- Publications and working papers: https://www.wiwiss.fu-berlin.de/fachbereich/bwl/pruefungs-steuerlehre/loeffler/forschung/
+- GitHub Pages: https://andreasloe.github.io/academic-profile/
+- Imprint: https://andreasloe.github.io/academic-profile/#imprint
