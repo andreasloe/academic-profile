@@ -9,7 +9,6 @@ The profile contains a curriculum vitae, publication lists, bibliographic data, 
 - [Curriculum vitae](cv/)
 - [Publications](publications/)
 - [Court citations](publications/court-citations/)
-- [Archived PDFs](pdfs/)
 - [Structured publication data](data/publications.yml)
 
 ## Research Areas
