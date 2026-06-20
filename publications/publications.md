@@ -84,8 +84,6 @@ This file is intentionally documentary in tone. It combines the public FU Berlin
 - L. Knoll, L. Kruschwitz, A. Loeffler, and D. Lorenz. "Response to Vasicek and Blume Betas: Back to the Future (Parts I and II)." *The Value Examiner*, July/August 2019, 22-26.
 - L. Knoll, L. Kruschwitz, and A. Loeffler. "Der Basiszinssatz in der Unternehmensbewertung." *RWZ*, 5/2019, 139-145.
 - L. Knoll, L. Kruschwitz, A. Loeffler, and D. Lorenz. "Time to Say Goodbye: Naht das Ende für die IDW-Vorgaben zum einheitlichen Basiszins?" *Bewertungspraktiker*, 11/2019, 98-103.
-- L. Knoll, L. Kruschwitz, and A. Loeffler. Bibliographic details to verify. *Der Betrieb*, 2016, 2305.
-  Court citations: cited in OLG Frankfurt a.M., decision of 03.11.2020, 21 W 76/19, and OLG Frankfurt a.M., decision of 13.01.2023, 21 W 150/21.
 - L. Kruschwitz and A. Loeffler. *Die Brownsche Bewegung: Eine gründliche Einführung für Ökonomen*. Books on Demand, 2016.
 - L. Kruschwitz and A. Loeffler. "Buchbesprechung Frank Richter: Mergers & Acquisitions." *Die Wirtschaftsprüfung*, 58, 2005, 1009-1010.
 - L. Kruschwitz and A. Loeffler. "Erwiderungen auf die Bemerkungen Frank Richters zur Buchbesprechung Mergers & Acquisitions." *Die Wirtschaftsprüfung*, 59, 2006, 342-343.
@@ -96,13 +94,13 @@ This file is intentionally documentary in tone. It combines the public FU Berlin
 - A. Loeffler. "Gewichtete Kapitalkosten (WACC) in der Unternehmensbewertung - Replik zu Schwetzler/Rapp." *FinanzBetrieb*, 5, 2002, 505-509.
 - L. Kruschwitz and A. Loeffler. "Die Amortisationsrechnung ist besser als ihr Ruf!" *OR Spectrum*, 21, 1999, 287-303.
 - L. Kruschwitz and A. Loeffler. "Ross' APT ist gescheitert. Was nun?" *Zeitschrift für betriebswirtschaftliche Forschung*, 49, 1997, 644-651.
-- T. Hens and A. Loeffler. "Gross Substitution in Financial Markets." *Economics Letters*, 49, 1995, 39-43.
-- J.-M. Bottazzi, T. Hens, and A. Loeffler. "Market Demand Functions in the CAPM." *Journal of Economic Theory*, 79, 1998, 192-206.
-- A. Loeffler. "Debreu's Decomposition and Aggregate Demand Functions." *Economics Letters*, 63, 1999, 217-223.
-- W. Elberfeld and A. Loeffler. "An Analysis of Stability Sets in Pure Coordination Games." *Theory and Decision*, 49, 2000, 235-249.
-- A. Loeffler. "A μ-σ Risk Aversion Paradox and Wealth Dependent Utility." *Journal of Risk and Uncertainty*, 23(1), 2001, 57-73.
-- T. Hens, J. Laitenberger, and A. Loeffler. "Two Remarks on the Uniqueness of Equilibria in the CAPM." *Journal of Mathematical Economics*, 37, 2002, 123-132.
-- P. Baake, R. Borck, and A. Loeffler. "Complexity and Progressivity in Income Tax Design: Deductions for Work-Related Expenses." *International Tax and Public Finance*, 11, 2004, 1-14.
+- T. Hens and A. Loeffler. "Gross Substitution in Financial Markets." *Economics Letters*, 49, 1995, 39-43. [DOI](https://doi.org/10.1016/0165-1765(94)00647-K)
+- J.-M. Bottazzi, T. Hens, and A. Loeffler. "Market Demand Functions in the CAPM." *Journal of Economic Theory*, 79, 1998, 192-206. [DOI](https://doi.org/10.1006/jeth.1997.2370)
+- A. Loeffler. "Debreu's Decomposition and Aggregate Demand Functions." *Economics Letters*, 63, 1999, 217-223. [DOI](https://doi.org/10.1016/S0165-1765(99)00021-X)
+- W. Elberfeld and A. Loeffler. "An Analysis of Stability Sets in Pure Coordination Games." *Theory and Decision*, 49, 2000, 235-249. [DOI](https://doi.org/10.1023/A:1026566915626)
+- A. Loeffler. "A μ-σ Risk Aversion Paradox and Wealth Dependent Utility." *Journal of Risk and Uncertainty*, 23(1), 2001, 57-73. [DOI](https://doi.org/10.1023/A:1011164615592)
+- T. Hens, J. Laitenberger, and A. Loeffler. "Two Remarks on the Uniqueness of Equilibria in the CAPM." *Journal of Mathematical Economics*, 37, 2002, 123-132. [DOI](https://doi.org/10.1016/S0304-4068(02)00012-5)
+- P. Baake, R. Borck, and A. Loeffler. "Complexity and Progressivity in Income Tax Design: Deductions for Work-Related Expenses." *International Tax and Public Finance*, 11, 2004, 1-14. [DOI](https://doi.org/10.1023/B:ITAX.0000021973.38388.DA)
 
 ## Software and Data Contributions
 
