@@ -1,0 +1,36 @@
+source_note: "Working metadata for the academic-profile repository, prepared from the FU Berlin publication page and CV files."
+preferred_language: en
+main_publication_file: "../publications/publications.md"
+pdf_manifest: "pdf-manifest.json"
+fu_source_html: "fu-forschung.html"
+fu_source_url: "https://www.wiwiss.fu-berlin.de/fachbereich/bwl/pruefungs-steuerlehre/loeffler/forschung/index.html"
+refubium_discover_source_html: "refubium-discover.html"
+refubium_discover_source_url: "https://refubium.fu-berlin.de/handle/fub188/2/discover"
+refubium_author_listing:
+  source: "Downloaded Refubium author browse pages for Löffler, Andreas"
+  parsed_items: "refubium-loeffler-items.json"
+  archived_pages:
+    - "refubium-loeffler-page-1.html"
+    - "refubium-loeffler-page-2.html"
+    - "refubium-loeffler-page-3.html"
+  item_count: 46
+pdf_archive:
+  directory: "../assets/pdfs"
+  files_downloaded: 44
+  total_size: "about 62 MB"
+  note: "The archive contains directly linked PDF files that could be downloaded from the FU page or a public PDF source. Some source pages expose PDFs that could not be downloaded by the terminal client and are retained as source links only."
+refubium:
+  note: "The general Refubium discovery page and the downloaded author listing for Löffler, Andreas are archived locally. Refubium handles from the author listing have been added to the publication list where they match existing entries."
+  known_entries:
+    - title: "Divergent interest rates in the theory of financial markets"
+      handle: "https://refubium.fu-berlin.de/handle/fub188/24006"
+      doi: "10.17169/refubium-1781"
+    - title: "Unbiased Beta Despite Biased Data: Some Elementary Results"
+      handle: "https://refubium.fu-berlin.de/handle/fub188/47990"
+      doi: "10.17169/refubium-47708"
+court_citation_rule: "If more than two OLG decisions cite a publication, write 'cited in several OLG decisions' and name two examples in parentheses followed by '...'."
+court_citation_status: "OLG citations from the supplied extended court-citation list have been added and internally checked. Full independent verification from public sources is still pending; see ../publications/court-citations.md."
+r_contribution:
+  bugzilla: "https://bugs.r-project.org/show_bug.cgi?id=18655"
+  source: "https://raw.githubusercontent.com/wch/r-source/trunk/src/nmath/wilcox.c"
+  note: "R's Wilcoxon distribution implementation states that it uses work from Andreas Loeffler and links the 1984 Wilcoxon-Mann-Whitney note."
